@@ -1,1 +1,3 @@
 - Collections files for the workshop
+- Introductions
+- Basic collaboration knowledge
