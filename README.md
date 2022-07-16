@@ -1,1 +1,1 @@
-welcome files
+- Collections files for the workshop
